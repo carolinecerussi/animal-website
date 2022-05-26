@@ -1,18 +1,37 @@
+h1 {
+  font-family: serif;
+  color: goldenrod;
+  font-size: 32px;
+  text-align: center;
+
+}
+
+
+
+
+
+
+
 .pet-profile {
   width: 300px;
-  border: solid darkolivegreen;
+  border: solid goldenrod;
   border-width: 5px;
   padding: 10px;
   margin: 10px;
   box-sizing: border-box;
+  background-color: white;
   float: left;
 }
 
 .pet-profile h1 {
   text-align: center;
   font-style: italic;
+  color:darkgray;
 }
 
 body {
-  background-color: azure;
+  background-image: url("https://wallup.net/wp-content/uploads/2017/03/28/408531-landscape-grass-field-748x468.jpg");
+  background-size: cover;
+  
+
 }
