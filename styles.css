@@ -6,7 +6,12 @@ h1 {
 
 }
 
-
+img {
+  margin:auto;
+  height: auto;
+  display:block
+  
+}
 
 
 .pet-profile {
