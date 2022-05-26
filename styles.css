@@ -1,0 +1,18 @@
+.pet-profile {
+  width: 300px;
+  border: solid darkolivegreen;
+  border-width: 5px;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+  float: left;
+}
+
+.pet-profile h1 {
+  text-align: center;
+  font-style: italic;
+}
+
+body {
+  background-color: azure;
+}
