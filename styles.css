@@ -9,9 +9,6 @@ h1 {
 
 
 
-
-
-
 .pet-profile {
   width: 300px;
   border: solid goldenrod;
@@ -32,6 +29,4 @@ h1 {
 body {
   background-image: url("https://wallup.net/wp-content/uploads/2017/03/28/408531-landscape-grass-field-748x468.jpg");
   background-size: cover;
-  
-
 }
